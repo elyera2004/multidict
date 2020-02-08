@@ -23,7 +23,7 @@ echo <<< END_html
 <html>
 <head>
 <meta charset="utf-8">
-<title>Multidict, Wordlink and Clilstore - Tools for CLIL</title>
+<title>Multidict, Wordlink and Clilstore - Tools for CLIL - Test</title>
 <meta name="description" content="Three tools for language learners.  Multidict can link to online dictionaries in hundreds of languages.  Wordlink links (nearly) any webpage word by word to online dictionaries.  Clilstore is a store of audiovisual learning units, with every word linked automatically to dictionaries.">
 <link href="lone.css" rel="stylesheet">
 <style>
